@@ -34,7 +34,7 @@ public abstract class Individu {
 	public void setIdentifiant(int identifiant) {
 		this.identifiant = identifiant;
 	}
-	
+
 	public abstract void montrerDetails();
 
 }
