@@ -1,6 +1,6 @@
 package classes;
 
-public class Cours implements Participable {
+public class Cours  {
 	protected  String titre;
 	protected  String formateur;
 	protected int  duree;
